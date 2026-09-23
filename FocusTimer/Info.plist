@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleExecutable</key>
+	<string>FocusTimer</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.neighbortech.zone.focustimer</string>
+	<key>CFBundleName</key>
+	<string>FocusTimer</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSPrincipalClass</key>
+	<string>FocusTimerZone</string>
+	<key>ZoneAuthor</key>
+	<string>Christian Gonzalez</string>
+	<key>ZoneSummary</key>
+	<string>Four one-click countdown timers on your screen edge. Watch the time run down on a dial, get a sound or a pulse when it ends, snooze from the keyboard.</string>
+</dict>
+</plist>

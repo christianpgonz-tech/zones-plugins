@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.neighbortech.zone.mlbbaseball</string>
+<key>CFBundleName</key><string>Baseball</string>
+<key>CFBundleExecutable</key><string>Baseball</string>
+<key>CFBundlePackageType</key><string>BNDL</string>
+<key>CFBundleShortVersionString</key><string>1.1</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>NSPrincipalClass</key><string>BaseballZone</string>
+<key>ZoneSummary</key><string>Live MLB baseball: pick favorite teams from all six divisions, watch scores, the inning, the count and runners on base, division standings and every game of the day. Unofficial and not affiliated with Major League Baseball or any team.</string>
+<key>ZoneAuthor</key><string>Christian Gonzalez</string>
+</dict></plist>

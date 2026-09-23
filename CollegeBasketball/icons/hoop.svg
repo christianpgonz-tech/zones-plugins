@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 206 230" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <g id="basketball-hoop" transform="matrix(1,0,0,1,-35.6,-24.6)">
+        <path id="backboard" d="M38.5,68C98,14 176,14 238,68L238,135L181,156L95,156L38.5,135L38.5,68Z" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.8px;"/>
+        <path id="target-square" d="M95,155L95,91L181,91L181,155" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.8px;"/>
+        <g id="net">
+            <path id="net-sides" d="M83,168C104,192 113,212 110,250M193,168C173,190 163,211 166,250" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.4px;"/>
+            <g id="net-mesh">
+                <clipPath id="_clip1">
+                    <path d="M83,168L193,168C173,190 163,211 166,250L152,237L138,251L124,237L110,250C113,212 104,192 83,168Z"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <path d="M94,180L166,250M123,168L123,180L169,224M152,168L152,180L178,205" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.4px;"/>
+                    <path d="M182,180L110,250M152,180L107,224M123,180L98,205" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.4px;"/>
+                    <path d="M110,224L138,251L166,224" style="fill:none;fill-rule:nonzero;stroke:white;stroke-width:5.4px;"/>
+                </g>
+            </g>
+        </g>
+        <path id="rim" d="M206,161.5L206,162.5C206,165.536 203.536,168 200.5,168L75.5,168C72.464,168 70,165.536 70,162.5L70,161.5C70,158.464 72.464,156 75.5,156L200.5,156C203.536,156 206,158.464 206,161.5Z" style="fill:none;stroke:white;stroke-width:5.8px;"/>
+    </g>
+</svg>

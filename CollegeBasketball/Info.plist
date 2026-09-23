@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.neighbortech.zone.collegebasketball</string>
+<key>CFBundleName</key><string>CollegeBasketball</string>
+<key>CFBundleExecutable</key><string>CollegeBasketball</string>
+<key>CFBundlePackageType</key><string>BNDL</string>
+<key>CFBundleShortVersionString</key><string>1.1</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>NSPrincipalClass</key><string>CollegeBasketballZone</string>
+<key>ZoneSummary</key><string>Live men's college basketball: pick favorite schools from every Division I conference, watch scores, the top scorer, the AP Top 25, conference standings and every game of the day. Unofficial and not affiliated with the NCAA or any school.</string>
+<key>ZoneAuthor</key><string>Christian Gonzalez</string>
+</dict></plist>

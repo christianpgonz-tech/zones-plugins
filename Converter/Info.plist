@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.neighbortech.zone.converter</string>
+<key>CFBundleName</key><string>Converter</string>
+<key>CFBundleExecutable</key><string>Converter</string>
+<key>CFBundlePackageType</key><string>BNDL</string>
+<key>CFBundleShortVersionString</key><string>1.16</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>NSPrincipalClass</key><string>ConverterZone</string>
+<key>ZoneSummary</key><string>Convert length, temperature, area, volume, weight, time, pressure, speed, energy, force, acceleration, torque, density, illuminance, power, angle, data storage, fuel economy, and 30 major currencies (with flags). Pick a category on the dial, then the From and To units separately; star favorites to keep them at the top, or type "5 km to mi". Currency rates are indicative and load online.</string>
+<key>ZoneAuthor</key><string>Christian Gonzalez</string>
+</dict></plist>

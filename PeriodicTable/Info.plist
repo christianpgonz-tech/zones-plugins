@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.neighbortech.zone.periodictable</string>
+<key>CFBundleName</key><string>PeriodicTable</string>
+<key>CFBundleExecutable</key><string>PeriodicTable</string>
+<key>CFBundlePackageType</key><string>BNDL</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>NSPrincipalClass</key><string>PeriodicTableZone</string>
+<key>ZoneSummary</key><string>All 118 elements, browsed by family, with search and an atom model for each.</string>
+<key>ZoneAuthor</key><string>Christian Gonzalez</string>
+</dict></plist>

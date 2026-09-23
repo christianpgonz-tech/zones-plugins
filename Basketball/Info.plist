@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleIdentifier</key><string>com.neighbortech.zone.nbabasketball</string>
+<key>CFBundleName</key><string>Basketball</string>
+<key>CFBundleExecutable</key><string>Basketball</string>
+<key>CFBundlePackageType</key><string>BNDL</string>
+<key>CFBundleShortVersionString</key><string>1.1</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>NSPrincipalClass</key><string>BasketballZone</string>
+<key>ZoneSummary</key><string>Live NBA basketball: pick favorite teams from all six divisions, watch scores, the quarter and clock, top scorers, division standings and every game of the day. Unofficial and not affiliated with the NBA or any team.</string>
+<key>ZoneAuthor</key><string>Christian Gonzalez</string>
+</dict></plist>
