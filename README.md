@@ -1,5 +1,9 @@
 # Making a zone
 
+This is the plugin SDK for **[Zones](https://zones.christian-p-gonz.workers.dev)**, a macOS hover-corner
+utility app — get the app itself from that site. The folders here (Converter, Football, Basketball, etc.)
+are the real source for its built-in-style zones, published as working examples of the plugin API below.
+
 A zone is a small macOS bundle (`Something.zone`) that Zones loads from
 `~/Library/Application Support/Zones/Added Zones`. People get it by downloading
 `Something.zip` from your website, then choosing **Add Zone…** in the Zones menu or
